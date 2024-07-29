@@ -17,4 +17,6 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 # bootcampajvaclaro
-# bootcampajvaclaro
+- Anatomia das classes
+    - parte 3 - Diferenciando método de variável com mesmo nomeCompleto
+    - parte 4 - Identação
