@@ -20,3 +20,4 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 - Anatomia das classes
     - parte 3 - Diferenciando método de variável com mesmo nomeCompleto
     - parte 4 - Identação
+    - parte 5 - pacotes
