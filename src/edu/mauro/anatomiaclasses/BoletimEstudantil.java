@@ -1,3 +1,4 @@
+package edu.mauro.anatomiaclasses;
 import java.util.Scanner;
 public class BoletimEstudantil {
     /**
